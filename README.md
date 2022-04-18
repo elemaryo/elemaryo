@@ -12,7 +12,7 @@
 	</a>
 </p>
 
-I'm a video game developer who enjoys building enriching and memorable gameplay experiences - one line of code at a time 👨‍💻 🎮.
+I'm a video game developer who enjoys building enriching and memorable gameplay experiences - one line of code at a time 👨‍💻 🎮
 
 ## ⚙️ Programming Languages
 
