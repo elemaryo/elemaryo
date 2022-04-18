@@ -1,4 +1,4 @@
-# Omar Elemary 
+![Banner](https://github.com/elemaryo/elemaryo/blob/main/Readmebanner.jpg?raw=true)
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/omar-elemary/">
