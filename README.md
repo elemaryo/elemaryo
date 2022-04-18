@@ -1,4 +1,4 @@
-![Banner](https://github.com/elemaryo/elemaryo/blob/main/Readmebanner.jpg?raw=true)
+![Banner](https://github.com/elemaryo/elemaryo/blob/main/readme.png)
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/omar-elemary/">
